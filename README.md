@@ -1,9 +1,8 @@
 # Formação-Front-End Alura
 Curso Formação Front-end , desenvolvido pela Alura
 
-
 ## Tecnologias Usadas
 
-- []HTML
-- []CSS
+- [x]HTML
+- [x]CSS
 - [] JS
